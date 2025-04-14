@@ -144,4 +144,4 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 
 ## License
 
-[MIT](LICENSE)
+[Creative Commons Attribution Share Alike 4.0 International](https://github.com/miguelsalva/awesome-release-management/blob/master/LICENSE)
