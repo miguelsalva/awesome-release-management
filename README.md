@@ -91,11 +91,9 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ---
 
-## Case Studies & Postmortems
+## Case Studies
 
-- [Google SRE Workbook: Release Engineering](https://sre.google/workbook/release-engineering/)
-- [Slack Postmortem — Release Failure](https://slack.engineering/incident-2021-10-20/)
-- [GitHub Engineering Blog — Release Engineering](https://github.blog/tag/release-engineering/)
+- [Google SRE Workbook: Release Engineering](https://sre.google/sre-book/release-engineering/)
 
 ---
 
@@ -104,8 +102,9 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 **Books**
 
 - *Accelerate* by Nicole Forsgren, Jez Humble, Gene Kim  
-- *The Phoenix Project* by Gene Kim, Kevin Behr, George Spafford  
-- *The DevOps Handbook* by Gene Kim, Jez Humble, Patrick Debois, John Willis  
+- [*Site Reliability Engineering* by ]()
+- [*The DevOps Handbook* by Gene Kim, Jez Humble, Patrick Debois, John Willis](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1950508404/)
+- [*The Phoenix Project* by Gene Kim, Kevin Behr, George Spafford](https://www.amazon.com/The-Phoenix-Project-audiobook/dp/B00VATFAMI/)  
 
 **Courses**
 
