@@ -31,13 +31,16 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 - [Release Management (Wikipedia)](https://en.wikipedia.org/wiki/Release_management)
 - [Software Release Life Cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle)
 - [How ITIL Release Management works](https://www.knowledgehut.com/blog/it-service-management/itil-release-management)
-- [Introduction to DevOps Release Management](https://learn.microsoft.com/en-us/devops/what-is-devops)
+- [ITSM Release Management](http://www.project-open.com/en/process-itsm-release-management)
+- [Release Management in Devops](https://www.peerbits.com/blog/complete-guide-to-release-management-in-devops.html))
 
 ---
 
 ## Guides & Best Practices
 
 - [Release Strategy for Devops](https://www.pmi.org/disciplined-agile/process/release-management/devops-strategies)
+- [7 Ways to improve your Software Release Management](https://www.cio.com/article/276415/developer-7-ways-to-improve-your-software-release-management.html)
+- [Release Management Explained: Dev To Prod Deployment Process](https://devopscube.com/release-management-explained/)
 
 ---
 
@@ -131,6 +134,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## Misc
 
+- [Release Management in Open Source projects](http://oss-watch.ac.uk/resources/releasemanagement)
 - [Should I deploy today?](https://shouldideploy.today/)
 
 ---
