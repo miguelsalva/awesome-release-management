@@ -101,10 +101,9 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 **Books**
 
-- *Accelerate* by Nicole Forsgren, Jez Humble, Gene Kim  
-- [*Site Reliability Engineering* by ]()
-- [*The DevOps Handbook* by Gene Kim, Jez Humble, Patrick Debois, John Willis](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1950508404/)
-- [*The Phoenix Project* by Gene Kim, Kevin Behr, George Spafford](https://www.amazon.com/The-Phoenix-Project-audiobook/dp/B00VATFAMI/)  
+- [*The DevOps Handbook*](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1950508404/) by Gene Kim, Jez Humble, Patrick Debois, John Willis
+- [*The Phoenix Project*](https://www.amazon.com/The-Phoenix-Project-audiobook/dp/B00VATFAMI/) by Gene Kim, Kevin Behr, George Spafford
+- [*Site Reliability Engineering*](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/B08VKWBJFS/) by Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy
 
 **Courses**
 
