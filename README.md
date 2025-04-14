@@ -30,16 +30,14 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 - [Release Management (Wikipedia)](https://en.wikipedia.org/wiki/Release_management)
 - [Software Release Life Cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle)
+- [How ITIL Release Management works](https://www.knowledgehut.com/blog/it-service-management/itil-release-management)
 - [Introduction to DevOps Release Management](https://learn.microsoft.com/en-us/devops/what-is-devops)
 
 ---
 
 ## Guides & Best Practices
 
-- [12 Steps to Better Release Management](https://xebia.com/blog/12-steps-to-better-release-management/)
-- [Release Strategy — Martin Fowler](https://martinfowler.com/bliki/ReleaseStrategy.html)
-- [GitHub Release Best Practices](https://github.com/cli/cli/discussions/1929)
-- [Continuous Delivery vs. Release Management](https://www.atlassian.com/continuous-delivery/release-management)
+- [Release Strategy for Devops](https://www.pmi.org/disciplined-agile/process/release-management/devops-strategies)
 
 ---
 
@@ -128,6 +126,12 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 - [awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd)
 - [awesome-gitops](https://github.com/weaveworks/awesome-gitops)
 - [awesome-sre](https://github.com/dastergon/awesome-sre)
+
+---
+
+## Misc
+
+- [Should I deploy today?](https://shouldideploy.today/)
 
 ---
 
