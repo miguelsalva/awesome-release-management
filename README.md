@@ -107,9 +107,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 **Courses**
 
-- [Pluralsight: Release Management](https://www.pluralsight.com/courses/release-management)
-- [Udemy: CI/CD and Release Management](https://www.udemy.com/course/devops-ci-cd-release-management/)
-- [Microsoft Learn: Introduction to Release Pipelines](https://learn.microsoft.com/en-us/training/modules/introduction-release-pipelines/)
+- [Skillsoft: Build & Release Engineering Best Practices](https://www.skillsoft.com/course/build-release-engineering-best-practices-release-management-2a3707c5-7cd2-468a-b950-7fc86264a898)
+- [Pluralsight: Agile Release Management](https://www.pluralsight.com/courses/agile-release-management)
 
 ---
 
@@ -123,7 +122,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## Related Awesome Lists
 
-- [awesome-devops](https://github.com/tiimgreen/awesome-devops)
+- [awesome-devops](https://github.com/wmariuss/awesome-devops)
 - [awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd)
 - [awesome-gitops](https://github.com/weaveworks/awesome-gitops)
 - [awesome-sre](https://github.com/dastergon/awesome-sre)
