@@ -15,6 +15,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 - [Release Management Tools](#release-management-tools)
   - [Automated Release Tools](#automated-release-tools)
   - [Semantic Versioning](#semantic-versioning)
+  - [Release Monitoring & EOL Tracking](#release-monitoring--eol-tracking)
   - [Changelog Generators](#changelog-generators)
   - [Orchestration & CD](#orchestration--cd)
 - [CI/CD Integrations](#cicd-integrations)
@@ -51,6 +52,11 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 - [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated version management and changelog generation based on semantic commits.
 - [Release Please](https://github.com/googleapis/release-please) - GitHub automation for managing releases with changelogs.
 - [changesets](https://github.com/changesets/changesets) - A release tool specifically built for monorepos.
+
+### Release Monitoring & EOL Tracking
+
+- [ReleaseRun](https://releaserun.com) - Track software releases, breaking changes, and EOL dates across 13+ tech stacks (Node.js, Python, Go, Kubernetes, PostgreSQL, and more). Free daily briefings and a release index.
+
 
 ### Semantic Versioning
 
