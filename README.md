@@ -80,6 +80,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [auto-changelog](https://github.com/CookPete/auto-changelog)
 * [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
 * [git-cliff](https://github.com/orhun/git-cliff) - Highly customizable changelog generator based on conventional commits.
+* [relnote](https://github.com/loki-inu/relnote) - Offline stdlib Python CLI and GitHub Action that generates GitHub release notes from Conventional Commits (no API, no config).
 
 ### Orchestration & CD
 
