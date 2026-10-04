@@ -62,6 +62,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [GoReleaser](https://goreleaser.com/) - Build, package, and release Go projects with a single command. Supports Docker, Homebrew, Snapcraft, and more.
 * [release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into the default branch.
 * [Nx Release](https://nx.dev/features/manage-releases) - First-class release management for monorepos, including versioning, changelog generation, and publishing.
+* [Orbi](https://github.com/orbi-build/orbi) - Takes labelled GitHub Issues through a reviewed merge and cuts the tagged GitHub Release once a milestone's issues are done.
 
 ### Release Monitoring & EOL Tracking
 
