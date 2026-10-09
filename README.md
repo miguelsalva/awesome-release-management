@@ -120,6 +120,7 @@ Feature flags decouple deployment from release, enabling dark launches, A/B test
 * [Flagsmith](https://github.com/Flagsmith/flagsmith) - Open source feature flag and remote config service.
 * [GrowthBook](https://github.com/growthbook/growthbook) - Open source feature flags and A/B testing platform.
 * [Flipt](https://github.com/flipt-io/flipt) - Self-hosted, GitOps-friendly feature flag solution.
+* [dif](https://github.com/dif-sh/dif) - Open source feature flags kept as Markdown files in git; rollout percentages change by pull request and ship with the next deploy.
 
 ---
 
