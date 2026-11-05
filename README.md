@@ -135,6 +135,7 @@ Patterns for releasing software safely with minimal user impact.
 * [Flagger](https://flagger.app/) - Progressive delivery operator for Kubernetes with automated canary analysis and rollback.
 * [Octopus Deploy](https://octopus.com/) - Deployment automation with first-class support for multi-environment release pipelines.
 * [Deployment Strategies Explained](https://dev.to/mostlyjason/intro-to-deployment-strategies-blue-green-canary-and-more-3a3) - Practical overview of rolling, canary, shadow, and blue-green strategies.
+* [deploy-drift-guard](https://github.com/foxscar-git-hub/deploy-drift-guard) - Secrets-free GitHub Action that fails CI when a live deployment's commit SHA doesn't match HEAD, catching silent deploy failures.
 
 ---
 
