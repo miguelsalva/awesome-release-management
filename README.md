@@ -63,6 +63,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into the default branch.
 * [Nx Release](https://nx.dev/features/manage-releases) - First-class release management for monorepos, including versioning, changelog generation, and publishing.
 * [Orbi](https://github.com/orbi-build/orbi) - Takes labelled GitHub Issues through a reviewed merge and cuts the tagged GitHub Release once a milestone's issues are done.
+* [revdeps](https://github.com/hamarshehmhmd/revdeps) - Pre-release check for npm and PyPI libraries: runs your top dependents' test suites against the released version and your unreleased change, and reports which ones the release would break.
 
 ### Release Monitoring & EOL Tracking
 
