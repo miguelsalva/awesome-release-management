@@ -108,6 +108,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [GitLab Releases](https://docs.gitlab.com/ee/user/project/releases/)
 * [Docker CI/CD with GitHub Actions](https://docs.docker.com/ci-cd/github-actions/)
 * [Release assets with GoReleaser + GitHub Actions](https://goreleaser.com/ci/actions/)
+* [pubready](https://github.com/hamarshehmhmd/pubready) - Preflight for npm trusted publishing (OIDC) from GitHub Actions and GitLab CI: finds what will make `npm publish` fail (missing `id-token: write`, Node 22's npm 10, `repository.url` mismatch or wrong case, reusable workflows, first publish) and explains failed publish logs.
 
 ---
 
