@@ -83,6 +83,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [changelog-bot](https://github.com/nyaomaru/changelog-bot) - CLI and GitHub Action that generates changelogs from Git history, PR titles, and release notes, with optional LLM summaries and deterministic fallback.
 * [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
 * [git-cliff](https://github.com/orhun/git-cliff) - Highly customizable changelog generator based on conventional commits.
+* [release-notes-action](https://github.com/kalmwerk/release-notes-action) - GitHub Action that writes GitHub release notes from the matching CHANGELOG.md section, or from the commits since the last tag when there's no changelog (no API key).
 * [relnote](https://github.com/loki-inu/relnote) - Offline stdlib Python CLI and GitHub Action that generates GitHub release notes from Conventional Commits (no API, no config).
 
 ### Orchestration & CD
